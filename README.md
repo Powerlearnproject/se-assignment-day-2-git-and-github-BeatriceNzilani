@@ -5,7 +5,7 @@
 -Version control is a system that tracks changes to files over time,allowing users to recall and revert to previous versions of a file if needed and also allows
 collaboration where multiple developers can work on the same project without overwriting each other’s work.
 
-**GitHub is popular since it allows **:
+GitHub is popular since it allows :
 -Collaboration: It facilitates teamwork through features like branching and pull requests.
 -Hosting: Provides a platform to host Git repositories, making them accessible online.
 
@@ -42,7 +42,8 @@ A well-written README enhances collaboration by providing essential information,
 --Collaboration: Public repositories allow anyone to contribute, while private repositories limit contributions to authorized team members.
 --Best for: Public repositories are ideal for open-source projects, learning, and showcasing work, while private repositories are better for confidential projects and internal team collaboration.
 --Security: Public repositories expose code to the public, while private repositories keep it hidden for security reasons.
-**Public vs. Private Repositories**
+
+Public vs. Private Repositories
     Public Repository:
 Advantages: Open to everyone, encourages collaboration, and increases visibility.
 Disadvantages: Lack of control over who can view and contribute, potential security risks.
